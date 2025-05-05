@@ -38,5 +38,10 @@ A simple mini project that simulates a text-based Snake game on a terminal/conso
 MIT License – free to use for educational and development purposes.
 
 ---
+To Compile
+g++ src/main.cpp src/game.cpp src/snake.cpp src/utils.cpp -Iinclude -o build/snake.exe 
+
+To Play
+.\exe\run.exe
 
 > 💡 _"Coding is not just about syntax, it's about logic and creativity."_
